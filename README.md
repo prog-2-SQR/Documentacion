@@ -56,7 +56,7 @@ Mapa de la documentación obligatoria (enunciado §12) y dónde se encuentra cad
 |---|---|---|
 | README con pasos reproducibles | `README.md` de cada repositorio | En progreso |
 | Diagrama de arquitectura | Este README | Inicial |
-| Casos de uso por servicio | `casos-de-uso/` | Pendiente |
+| Casos de uso por servicio | [`casos-de-uso/`](casos-de-uso/README.md) | Inicial |
 | Diagramas de secuencia (sincronización y reserva) | `diagramas/` | Pendiente |
 | Contratos entre servicios (operaciones, DTO, autenticación, errores) | `contratos/` | Pendiente (M4) |
 | Modelo de datos y propiedad de cada servicio | `diagramas/` | Pendiente |
