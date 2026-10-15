@@ -57,11 +57,11 @@ Mapa de la documentación obligatoria (enunciado §12) y dónde se encuentra cad
 | README con pasos reproducibles | `README.md` de cada repositorio | En progreso |
 | Diagrama de arquitectura | Este README | Inicial |
 | Casos de uso por servicio | [`casos-de-uso/`](casos-de-uso/README.md) | Inicial |
-| Diagramas de secuencia (sincronización y reserva) | `diagramas/` | Pendiente |
+| Diagramas de secuencia (sincronización y reserva) | [`diagramas/sincronizacion.md`](diagramas/sincronizacion.md), [`diagramas/reserva.md`](diagramas/reserva.md) | Inicial |
 | Contratos entre servicios (operaciones, DTO, autenticación, errores) | `contratos/` | Pendiente (M4) |
 | Modelo de datos y propiedad de cada servicio | `diagramas/` | Pendiente |
-| Estrategia de sincronización completa e incremental | `diagramas/` | Pendiente |
-| Idempotencia y recuperación ante mensajes duplicados, perdidos o fuera de orden | `diagramas/` | Pendiente |
+| Estrategia de sincronización completa e incremental | [`diagramas/sincronizacion.md`](diagramas/sincronizacion.md) | Inicial |
+| Idempotencia y recuperación ante mensajes duplicados, perdidos o fuera de orden | [`diagramas/`](diagramas/sincronizacion.md) (reglas de cada diagrama) | Inicial |
 | Decisiones de seguridad, autenticación y autorización | `docs/adr/` de cada servicio | Pendiente (M5) |
 | Cómo ejecutar las pruebas automatizadas | `README.md` de cada servicio | En progreso |
 | Compose unificado para levantar toda la solución | `compose.yaml` en este repositorio | Pendiente (M9) |
