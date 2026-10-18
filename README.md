@@ -1,3 +1,9 @@
+<!-- calidad:inicio -->
+![Calidad](https://img.shields.io/badge/Calidad-sin%20c%C3%B3digo-lightgrey) ![Aprobar](https://img.shields.io/badge/Aprobar-no-red) ![Destacar](https://img.shields.io/badge/Destacar-no-lightgrey)
+
+**Calidad (7 dimensiones):** sin código en `main` (no evaluable).
+<!-- calidad:fin -->
+
 # Documentacion
 
 Documentación transversal del proyecto integrador de Programación 2 (Universidad de Mendoza, 2026): una aplicación Android para consultar profesionales y reservar turnos, con dos servicios backend propios integrados al servicio central de la cátedra.
